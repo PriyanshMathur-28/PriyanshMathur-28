@@ -1,25 +1,70 @@
-<img style="width:100%, height:400px, align:"center" src="https://i.ytimg.com/vi/0O65HU5BqiA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCoD3xa0FydVgm55HiRYgZQlSku2w">
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    /* Center the image horizontally and vertically */
+    .center-image {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 400px; /* Set a minimum height for the image container */
+    }
 
-<h1 align="center">Hi 👋, I'm Priyansh Mathur</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+    /* Style the heading and text */
+    h1, h3, p {
+      text-align: center;
+      margin: 10px;
+    }
 
-- 🌱 I’m currently learning **MERN STACK**
+    /* Style the social media links */
+    .social-links {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 10px; /* Add spacing between icons */
+    }
 
-- 👨‍💻 All of my projects are available at my Linkedin Profile : [https://www.linkedin.com/in/priyanshmathur28/](https://www.linkedin.com/in/priyanshmathur28/)
+    .social-links img {
+      width: 30px;
+      height: 30px;
+    }
+  </style>
+</head>
+<body>
 
-- 💬 Ask me about: **react,javascript,html,css,node,express**
+  <div class="center-image">
+    <img src="https://i.ytimg.com/vi/0O65HU5BqiA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCoD3xa0FydVgm55HiRYgZQlSku2w" alt="Priyansh Mathur">
+  </div>
 
-- 📫 How to reach me **(+91) 7737020243**
+  <h1>Hi 👋, I'm Priyansh Mathur</h1>
+  <h3>A passionate Full Stack developer from India</h3>
 
-- ⚡ Fun fact: **I Always think I speak funny Jokes**
+  - 🌱 I’m currently learning **MERN STACK**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/priyanshmathur28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshmathur28" height="30" width="40" /></a>
-<a href="https://instagram.com/craftedbypriyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="craftedbypriyansh" height="30" width="40" /></a>
-</p>
+  - 👨‍💻 All of my projects are available at my Linkedin Profile : [https://www.linkedin.com/in/priyanshmathur28/](https://www.linkedin.com/in/priyanshmathur28/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+  - 💬 Ask me about: **react,javascript,html,css,node,express**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshmathur-28&show_icons=true&locale=en&layout=compact" alt="priyanshmathur-28" /></p>
+  - 📫 How to reach me **(+91) 7737020243**
+
+  - ⚡ Fun fact: **I Always think I speak funny Jokes**
+
+  <h3>Connect with me:</h3>
+
+  <div class="social-links">
+    <a href="https://linkedin.com/in/priyanshmathur28" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshmathur28">
+    </a>
+    <a href="https://instagram.com/craftedbypriyansh" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="craftedbypriyansh">
+    </a>
+  </div>
+
+  <h3>Languages and Tools:</h3>
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshmathur-28&show_icons=true&locale=en&layout=compact" alt="priyanshmathur-28">
+  </p>
+
+</body>
+</html>
