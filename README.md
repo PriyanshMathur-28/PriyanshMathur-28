@@ -1,15 +1,17 @@
+<img style="width:100%, height:400px" src="https://i.ytimg.com/vi/0O65HU5BqiA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCoD3xa0FydVgm55HiRYgZQlSku2w">
+
 <h1 align="center">Hi 👋, I'm Priyansh Mathur</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **Mern**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at my Linkedin Profile : [https://www.linkedin.com/in/priyanshmathur28/](https://www.linkedin.com/in/priyanshmathur28/)
 
-- 💬 Ask me about **react,javascript,html,css,node,express**
+- 💬 Ask me about: **react,javascript,html,css,node,express**
 
 - 📫 How to reach me **(+91) 7737020243**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact: **I Always think I speak funny Jokes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
